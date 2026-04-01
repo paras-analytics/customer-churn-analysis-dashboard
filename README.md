@@ -3,6 +3,17 @@ SQL + Power BI project for customer churn and revenue analysis
 
 An end-to-end **SQL + Power BI analytics project** focused on customer churn, revenue trends, subscription insights, and regional performance analysis.
 
+## 📸 Dashboard Preview
+
+### 1. Overview Dashboard
+![Overview Dashboard](overview_dashboard.jpg)
+
+### 2. Churn Analysis Dashboard
+![Churn Dashboard](churn_dashboard.jpg)
+
+### 3. Revenue Dashboard
+![Revenue Dashboard](revenue_dashboard.jpg)
+
 This project demonstrates the complete data analytics workflow:
 
 **Raw Data → SQL Cleaning → KPI Analysis → Power BI Dashboard → Business Insights**
