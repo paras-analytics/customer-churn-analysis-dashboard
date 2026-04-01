@@ -9,7 +9,7 @@ This project demonstrates the complete data analytics workflow:
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The objective of this project is to analyze customer churn patterns, subscription behavior, and revenue performance across regions.
 
@@ -24,7 +24,7 @@ Using **MySQL for data cleaning and business KPI analysis** and **Power BI for i
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **MySQL** – Data cleaning, joins, KPI queries 
 * **Power BI** – Dashboard design and visualization
@@ -33,7 +33,7 @@ Using **MySQL for data cleaning and business KPI analysis** and **Power BI for i
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Customer-Churn-Analysis/
@@ -47,7 +47,7 @@ Customer-Churn-Analysis/
 
 ---
 
-## 📌 Key Business KPIs
+## Key Business KPIs
 
 * **Total Customers:** 300
 * **Churn Rate:** 33.33%
@@ -57,7 +57,7 @@ Customer-Churn-Analysis/
 
 ---
 
-## 📈 Dashboard Pages
+## Dashboard Pages
 
 ### 1. Business Performance Overview
 
@@ -95,7 +95,7 @@ Includes:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 * Churn rate is significantly high at **33.33%**
 * North America shows the highest churn percentage
@@ -105,7 +105,7 @@ Includes:
 
 ---
 
-## 🔍 SQL Analysis Covered
+##  SQL Analysis Covered
 
 The SQL project includes:
 
@@ -121,7 +121,7 @@ The SQL project includes:
 
 ---
 
-## 🎯 Business Use Case
+## Business Use Case
 
 This dashboard can help businesses:
 
@@ -133,7 +133,7 @@ This dashboard can help businesses:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Paras Girdher**
 Aspiring **Data Analyst | SQL | Power BI | Python**
